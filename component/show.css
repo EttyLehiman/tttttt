@@ -1,0 +1,20 @@
+ .butto{
+  
+    display: flex;
+}
+button{
+    color: rgb(230, 133, 133);
+}
+h1{
+    color: rgb(249, 71, 71);
+    margin-top: 0%;
+}
+.date{
+    color: rgb(249, 71, 71);
+
+}
+#add{
+    border-radius: 10px;
+   
+    border-color:  red;
+}
